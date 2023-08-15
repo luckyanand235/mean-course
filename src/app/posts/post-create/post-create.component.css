@@ -1,4 +1,6 @@
-
+mat-card {
+    margin-top: 1rem;
+}
 mat-card button {
     margin-left: 2rem;
     margin-bottom: 1rem;
@@ -6,4 +8,8 @@ mat-card button {
 }
 mat-form-field textarea {
     width: 100%;
+}
+form {
+    display: flex;
+    flex-direction: column;
 }
