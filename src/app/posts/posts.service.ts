@@ -22,3 +22,17 @@ export class PostService {
         this.postsUpdate.next([...this.posts]);
     }
 }
+
+
+
+// Observables, Observers and subscriptions
+// next(), error(), complete()
+/*
+    we invoke next() through observables,
+    we can also invoke error() and also complete()
+
+    subscribe()
+    
+
+
+*/
